@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darlan444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darlan444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FpYWp6eHRqYngzbGdkMmJocXQ3NHFwMXdkdnc5YWc2dnNzamw0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UGFjXITk7PTsNIWGk/giphy-downsized-large.gif"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FpYWp6eHRqYngzbGdkMmJocXQ3NHFwMXdkdnc5YWc2dnNzamw0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8UGFjXITk7PTsNIWGk/giphy-downsized-large.gif"  />
 </div>
 
 ###
