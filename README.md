@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Hi! My name is Darlan and I'm a Web Developer, from Brazil.</h3>
+<h3 align="left">Web Developer</h3>
 
 ###
 
